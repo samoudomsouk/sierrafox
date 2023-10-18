@@ -1,0 +1,64 @@
+#HomeSection1 {
+    width: 100%;
+    height: 72.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(0, 0, 0, 0) 20%, rgb(0, 0, 0)), url("https://scontent.fvte5-1.fna.fbcdn.net/v/t39.30808-6/252007705_4486698118044714_2692345752677066740_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FaSZuZ6yEokAX9Dxfww&_nc_ht=scontent.fvte5-1.fna&oh=00_AfAvMxLuldBH9v4OkDeP4zGZr3qe3GItW5XF9hhUCIkvrg&oe=65352A56") bottom/cover no-repeat;
+  }
+  
+  #HomeSection2 {
+    width: 100%;
+    height: 67.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url("https://images.ctfassets.net/5bv2a78ngtvd/6WzcKf6XYcqSbv2JlJdSRl/36ad0621b64ab5404b56a1d2a209297e/2560x1440_Precor_Homepage_2x.jpg?fm=webp&w=3840&q=70") center/cover no-repeat;
+  }
+  
+  #HomeSection3 {
+    width: 100%;
+    height: 67.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #HomeSection4 {
+    width: 100%;
+    height: 67.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #HomeSection5 {
+    width: 100%;
+    height: 67.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #HomeSection6 {
+    width: 100%;
+    height: 67.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #HomeSection7 {
+    width: 100%;
+    height: 67.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
